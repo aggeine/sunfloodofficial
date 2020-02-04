@@ -1,0 +1,94 @@
+html { 
+
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: black;
+  
+}
+body {
+	background-color: black;
+}
+
+
+h1,h2,h3 {
+	text-align: center;
+	color:#FAFAFA;
+	font-family:futura-lt-w01-book,sans-serif;
+	background-color: black;
+	font-size:1.6em;
+}
+#outcast {
+	color:#A9A9A9;
+	font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;
+	letter-spacing:0.05em;
+	font-weight:bold;
+	margin-top: -1.5em;
+}
+#coming {
+	font-family:futura-lt-w01-book,sans-serif;
+	color:#FF0000;
+	font-weight:bold;
+	font-size:1.2em;
+	margin-top: -1em;
+}
+#head {
+	letter-spacing:0.05em;
+	font-weight:bold;
+	font-size:3em;
+	font-family: 'Righteous', cursive;
+}
+#new {
+	margin-top: 20px;
+	font-size: 1.2em;
+
+}
+#uk {
+	font-size: 1.2em;
+	margin-top: -1.5em;
+}
+#download {
+	font-size: 1.4em;
+	margin-top: -1.2em;
+
+}
+.img-fluid {
+	width: 100% \9;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.state,#dan{
+	text-align: center;
+	font-family:palatino linotype,serif;
+	color:#FFFFFF;
+}
+#dan {
+	color:#E21C21;
+}
+.container .btn {
+  position: absolute;
+  top: 110%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+ font-family:palatino linotype,serif;
+  background-color:#457B9D;
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  opacity: 1;
+}
+.btn:hover {
+	background-color: #FF0000;
+
+}
+.contact-form {
+    margin-top:70px;
+}
